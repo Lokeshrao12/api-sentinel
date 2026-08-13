@@ -26,7 +26,7 @@
 - [API Endpoints](#-api-endpoints)
 - [Configuration](#-configuration)
 - [Running Tests](#-running-tests)
-- [Project Structure](#-project-structure
+- [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack
 
 ---
