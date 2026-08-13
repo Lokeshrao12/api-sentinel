@@ -12,11 +12,11 @@ build/
 pip-wheel-metadata/
 
 # Virtual environments
-venv/
-.venv/
-env/
-.env/
-ENV/
+venv
+.venv
+env
+.env
+ENV
 
 # ─── Environment / Secrets ────────────────────────────────────────────────────
 .env
