@@ -14,7 +14,7 @@ pip-wheel-metadata/
 # Virtual environments
 venv/
 .venv/
-env
+env/
 .env
 ENV
 
