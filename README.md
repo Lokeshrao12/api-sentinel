@@ -21,7 +21,7 @@
 - [Detection Signals](#-detection-signals)
 - [Prerequisites](#-prerequisites)
 - [Quick Start (Local)](#-quick-start-local)
-- [Quick Start (Docker)](#-quick-start-docker
+- [Quick Start (Docker)](#-quick-start-docker)
 - [Demo Scenarios](#-demo-scenarios
 - [API Endpoints](#-api-endpoints
 - [Configuration](#-configuration
