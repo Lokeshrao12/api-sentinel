@@ -16,7 +16,7 @@ venv/
 .venv/
 env/
 .env/
-ENV
+ENV/
 
 # ─── Environment / Secrets ────────────────────────────────────────────────────
 .env
