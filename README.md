@@ -24,7 +24,7 @@
 - [Quick Start (Docker)](#-quick-start-docker)
 - [Demo Scenarios](#-demo-scenarios)
 - [API Endpoints](#-api-endpoints)
-- [Configuration](#-configuration
+- [Configuration](#-configuration)
 - [Running Tests](#-running-tests
 - [Project Structure](#-project-structure
 - [Tech Stack](#-tech-stack
