@@ -21,13 +21,13 @@
 - [Detection Signals](#-detection-signals)
 - [Prerequisites](#-prerequisites)
 - [Quick Start (Local)](#-quick-start-local)
-- [Quick Start (Docker)](#-quick-start-docker)
-- [Demo Scenarios](#-demo-scenarios)
-- [API Endpoints](#-api-endpoints)
-- [Configuration](#-configuration)
-- [Running Tests](#-running-tests)
-- [Project Structure](#-project-structure)
-- [Tech Stack](#-tech-stack)
+- [Quick Start (Docker)](#-quick-start-docker
+- [Demo Scenarios](#-demo-scenarios
+- [API Endpoints](#-api-endpoints
+- [Configuration](#-configuration
+- [Running Tests](#-running-tests
+- [Project Structure](#-project-structure
+- [Tech Stack](#-tech-stack
 
 ---
 
