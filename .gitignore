@@ -12,7 +12,7 @@ build/
 pip-wheel-metadata/
 
 # Virtual environments
-venv
+venv/
 .venv
 env
 .env
