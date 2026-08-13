@@ -27,7 +27,7 @@
 - [Configuration](#-configuration)
 - [Running Tests](#-running-tests)
 - [Project Structure](#-project-structure)
-- [Tech Stack](#-tech-stack
+- [Tech Stack](#-tech-stack)
 
 ---
 
