@@ -25,7 +25,7 @@
 - [Demo Scenarios](#-demo-scenarios)
 - [API Endpoints](#-api-endpoints)
 - [Configuration](#-configuration)
-- [Running Tests](#-running-tests
+- [Running Tests](#-running-tests)
 - [Project Structure](#-project-structure
 - [Tech Stack](#-tech-stack
 
