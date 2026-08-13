@@ -22,7 +22,7 @@
 - [Prerequisites](#-prerequisites)
 - [Quick Start (Local)](#-quick-start-local)
 - [Quick Start (Docker)](#-quick-start-docker)
-- [Demo Scenarios](#-demo-scenarios
+- [Demo Scenarios](#-demo-scenarios)
 - [API Endpoints](#-api-endpoints
 - [Configuration](#-configuration
 - [Running Tests](#-running-tests
