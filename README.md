@@ -23,7 +23,7 @@
 - [Quick Start (Local)](#-quick-start-local)
 - [Quick Start (Docker)](#-quick-start-docker)
 - [Demo Scenarios](#-demo-scenarios)
-- [API Endpoints](#-api-endpoints
+- [API Endpoints](#-api-endpoints)
 - [Configuration](#-configuration
 - [Running Tests](#-running-tests
 - [Project Structure](#-project-structure
