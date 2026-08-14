@@ -2,7 +2,7 @@ version: '3.8'
 services:
   postgres:
     image: postgres:15
-    environment:
+     environment:
       POSTGRES_USER: sentinel
       POSTGRES_PASSWORD: sentinel
       POSTGRES_DB: sentinel
@@ -64,4 +64,4 @@ services:
       - ./backend:/app
 
 volumes:
-  pgdata:
+  pgdata: 
