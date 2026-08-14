@@ -1,5 +1,5 @@
 """
-routers/dashboard.py – Dashboard and admin API endpoints.
+    routers/dashboard.py – Dashboard and admin API endpoints.
 """
 
 from __future__ import annotations
