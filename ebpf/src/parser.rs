@@ -1,4 +1,4 @@
-/// Parses raw bytes captured by the eBPF program into structured HTTP events.
+/// Parses raw bytes captured by the eBPF program into structured HTTP events
 
 #[derive(Debug, serde::Serialize)]
 pub struct HttpEvent {
@@ -13,6 +13,6 @@ pub struct HttpEvent {
 /// Attempt to parse an HTTP request/response pair from raw bytes.
 pub fn parse_http(buf: &[u8]) -> Option<HttpEvent> {
     // TODO: implement real HTTP parsing from eBPF captured data
-    let _ = buf;
+    let _ = buf
     None
 }
