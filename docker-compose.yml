@@ -1,4 +1,4 @@
-version: '3.8'
+version: '3.8
 services:
   postgres:
     image: postgres:15
@@ -44,7 +44,7 @@ services:
       KAFKA_BROKERS: kafka:9092
       FILTER_PORTS: "80,443,8080,8443"
     volumes:
-      - /sys/kernel/debug:/sys/kernel/debug:ro'
+      - /sys/kernel/debug:/sys/kernel/debug:ro
       - /usr/src/linux-headers-$(uname -r):/usr/src/linux-headers:ro
     network_mode: host
 
