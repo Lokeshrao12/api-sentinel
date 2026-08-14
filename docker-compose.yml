@@ -41,7 +41,7 @@ services:
     depends_on:
       - kafka
     environment:
-      KAFKA_BROKERS: kafka:9092
+      KAFKA_BROKERS: kafka:"9092"
       FILTER_PORTS: "80,443,8080,8443"
     volumes:
       - /sys/kernel/debug:/sys/kernel/debug:ro
