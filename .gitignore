@@ -52,7 +52,7 @@ logs/
 
 # ─── Rust / eBPF ──────────────────────────────────────────────────────────────
 ebpf/target/
-Cargo.lock==
+Cargo.lock
 
 # ─── Node (if any tooling added) ──────────────────────────────────────────────
 node_modules/
