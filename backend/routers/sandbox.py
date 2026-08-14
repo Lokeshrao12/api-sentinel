@@ -5,7 +5,7 @@ Routes here are realistic but do NOT implement their own authorization —
 all security enforcement is done exclusively by API Sentinel middleware.
 """
 
-from __future__ import annotations
+from __future__ import annotations 
 
 import random
 from datetime import datetime
@@ -163,6 +163,7 @@ async def admin_debug():
         "internal_orders_count": len(_ORDERS),
         "warning": "This endpoint exposes internal data and should not be publicly accessible",
     }
+
 
 
 # ── Legacy deprecated routes ──────────────────────────────────────────────────
