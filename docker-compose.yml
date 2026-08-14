@@ -55,7 +55,7 @@ services:
       - redis
       - kafka
     environment:
-      DATABASE_URL: postgresql://sentinel:sentinel@postgres/sentinel'
+      DATABASE_URL: postgresql://sentinel:sentinel@postgres/sentinel
       REDIS_URL: redis://redis:6379/0
       KAFKA_BROKERS: kafka:9092
     ports:
